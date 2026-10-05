@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv("car_fuel_efficiency_2026.csv")
+data = pd.read_csv("data/car_fuel_efficiency_2026.csv")
 
 #Q1:
 pandas_version = pd.__version__
